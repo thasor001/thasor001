@@ -7,10 +7,10 @@
   <br>
 </h1>
 
-<h4 align='center'>Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live - <a href='https://books.google.co.id/books?id=gJf9tI2mytIC&pg=PT27#v=snippet&q=%22Always%20code%20as%20if%20the%20guy%20who%20ends%20up%20maintaining%20your%20code%20will%20be%20a%20violent%20psychopath%20who%20knows%20where%20you%20live%22&f=false' target='_blank'>Damian Conway</a>.</h4>
-
-<p status, align='center'>
-</p status>
+<div align="center">
+  <h4 align='center'>Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live</h4>
+  Quote by <a href='https://books.google.co.id/books?id=gJf9tI2mytIC&pg=PT27#v=snippet&q=%22Always%20code%20as%20if%20the%20guy%20who%20ends%20up%20maintaining%20your%20code%20will%20be%20a%20violent%20psychopath%20who%20knows%20where%20you%20live%22&f=false' target='_blank'>Damian Conway</a>
+</div>
 
 <!--- snake -->
 <div align="center">
