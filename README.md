@@ -36,7 +36,6 @@ class LunaMellow():
         self.username = "LunaMellow"
         self.location = "Norway"
         self.hobby = "Virtual Reality"
-        self.years_of_experience = 1
 
     def set_work(business):
         business.name = "LUNAS"
