@@ -13,7 +13,9 @@
  CURRENTLY LISTENING TO
 ```
 <div align="left">
-  <img src="https://spotify-readme-git-main-lunas-projects-1ac9c12c.vercel.app/api?theme=dark" alt="Current Spotify Song" width="50%">
+  <a href="https://open.spotify.com/user/sushigameplay03?si=b8d3ddb4f0574e41" target="_blank">
+    <img src="https://spotify-readme-git-main-lunas-projects-1ac9c12c.vercel.app/api?theme=dark" alt="Current Spotify Song" width="50%">
+  </a>
 </div>
 
 <br>
