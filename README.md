@@ -39,6 +39,7 @@ class LunaMellow():
 
     def set_work(business):
         business.name = "LUNAS"
+        business.role = "CEO and Founder"
         business.github = "@LS-AS"
         business.website = "https://lunaservices.no"
 
