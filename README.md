@@ -45,7 +45,7 @@ class LunaMellow():
 
     def set_education(study):
         study.university = "NTNU"
-        study.name = "Bachelor in Programming"
+        study.name = "Bachelor's Degree in Programming"
         study.location = "Gjøvik, Norway"
         study.start = "August 2023"
         study.website = "https://www.ntnu.no"
