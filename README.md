@@ -80,7 +80,7 @@ if __name__ == '__main__':
     />
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lunamellow&langs_count=8&layout=compact&card_width=495&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=github_dark&bg_color=161B22"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs?username=lunamellow&langs_count=8&layout=compact&card_width=300&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&theme=github_dark&bg_color=161B22"
     />
     <img alt="Most Used Languages"> <!-- https://github.com/anuraghazra/github-readme-stats-->
   </picture>
